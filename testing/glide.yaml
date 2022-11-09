@@ -1,0 +1,5 @@
+package: go-msi/testing
+import:
+- package: golang.org/x/sys
+  subpackages:
+  - windows/svc

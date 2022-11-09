@@ -1,0 +1,17 @@
+github.com/Masterminds/semver v1.2.2 h1:ptelpryog9A0pR4TGFvIAvw2c8SaNrYkFtfrxhSviss=
+github.com/Masterminds/semver v1.2.2/go.mod h1:MB6lktGJrhw8PrUyiEoblNEGEQ+RzHPF078ddwwvV3Y=
+github.com/kardianos/service v1.2.2 h1:ZvePhAHfvo0A7Mftk/tEzqEZ7Q4lgnR8sGz4xu1YX60=
+github.com/kardianos/service v1.2.2/go.mod h1:CIMRFEJVL+0DS1a3Nx06NaMn4Dz63Ng6O7dl0qH0zVM=
+github.com/mattn/go-zglob v0.0.0-20170124115757-95345c4e1c0e h1:MjZj0KCx7aFNToMEqvMJB0IE+PpRi/goV1RC4NPfy4A=
+github.com/mattn/go-zglob v0.0.0-20170124115757-95345c4e1c0e/go.mod h1:9fxibJccNxU2cnpIKLRRFA7zX7qhkJIQWBb449FYHOo=
+github.com/satori/go.uuid v1.1.0 h1:B9KXyj+GzIpJbV7gmr873NsY6zpbxNy24CBtGrk7jHo=
+github.com/satori/go.uuid v1.1.0/go.mod h1:dA0hQrYB0VpLJoorglMZABFdXlWrHn1NEOzdhQKdks0=
+github.com/sftfjugg/stringexec v0.0.0-20160727103857-bc348d279f97 h1:Akh3DjI9RyBgvccZcV9RFNVINBsqKh5wLM2zz+P7mHM=
+github.com/sftfjugg/stringexec v0.0.0-20160727103857-bc348d279f97/go.mod h1:uIXNvtd+RCREiWb3zo73TtLt4Y49eGzGnFU8xHA1fSk=
+github.com/urfave/cli v1.19.1 h1:0mKm4ZoB74PxYmZVua162y1dGt1qc10MyymYRBf3lb8=
+github.com/urfave/cli v1.19.1/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
+golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.2.0 h1:ljd4t30dBnAvMZaQCevtY0xLLD0A+bRZXbgLMLU1F/A=
+golang.org/x/sys v0.2.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/text v0.0.0-20170215092856-85c29909967d h1:XbcH1HvDv+No03DoqBEiQKYLE/6YoW05+MddzfWNGk0=
+golang.org/x/text v0.0.0-20170215092856-85c29909967d/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
